@@ -3,7 +3,7 @@
 ## Student Details
 - **Name:** Mohammad Ali Munawar
 - **Student ID:** 2524797
-- **Module:** SWE6011 — Agile Programming
+- **Module:** SWE6011 - Agile Programming
 - **Level:** HE6
 - **University:** University of Greater Manchester
 - **Teacher:** Renuka Nyayadhish
