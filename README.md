@@ -3,16 +3,20 @@
 ## Student Details
 - **Name:** Mohammad Ali Munawar
 - **Student ID:** 2524797
-- **Module:** SWE6011 - Agile Programming
+- **Module:** SWE6011 — Agile Programming
 - **Level:** HE6
 - **University:** University of Greater Manchester
 - **Teacher:** Renuka Nyayadhish
 
 ## Project Description
-A web-based compliance management platform for tracking staff
-acknowledgement of organisational policy changes. Three user
-roles: Manager, Staff, and Auditor — each with a dedicated
-dashboard.
+A web-based compliance management platform for tracking staff acknowledgement of organisational policy changes.
+
+The system supports three user roles:
+- Manager
+- Staff
+- Auditor
+
+Each role has its own dedicated dashboard.
 
 ## Tech Stack
 - React 18 + TypeScript
@@ -25,16 +29,20 @@ dashboard.
 npm install
 npm start
 ```
+
 Open http://localhost:3000 in your browser.
 
-## Login Credentials (Demo)
-| Role    | Email                    | Password |
-|---------|--------------------------|----------|
-| Manager | sarah.jones@company.com  | password |
-| Staff   | john.smith@company.com   | password |
-| Auditor | emma.wilson@company.com  | password |
+## Demo Login Credentials
+
+| Role    | Email                | Password    |
+|---------|---------------------|------------|
+| Manager | sarah@company.com   | manager123 |
+| Auditor | auditor@company.com | auditor123 |
+| Staff   | mike@company.com    | staff123   |
+| Staff   | emma@company.com    | staff123   |
+| Staff   | james@company.com   | staff123   |
+| Staff   | lisa@company.com    | staff123   |
 
 ## Getting Started
-
-1. Run `npm install`
-2. Run `npm run dev`
+1. Run npm install
+2. Run npm start
